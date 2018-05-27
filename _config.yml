@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Parker Gray"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /_site/avatar.jpg
   bio              : "Aspiring Computer Scientist"
   location         : "San Ramon, CA"
   email            : parker.gray221@gmail.com
