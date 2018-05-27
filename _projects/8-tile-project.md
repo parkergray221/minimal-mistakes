@@ -2,7 +2,8 @@
 title: "Eight Tile Project"
 excerpt: "Project which uses AI to solve the Eight Tile puzzle."
 header:
-  teaser: _site/assets/imgs/R8fXD.jpg
+  image: /assets/imgs/sliding_puzzle.png
+  teaser: assets/imgs/R8fXD.jpg
 sidebar:
   - title: "Role"
     text: "Back End Developer, Documentation"
