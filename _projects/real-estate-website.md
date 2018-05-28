@@ -13,4 +13,4 @@ sidebar:
 
 This group project was the semester long homework for all of my Software Engineering class. The real estate website dubbed RECycle is written using node.js and jade, with database work for user details and housing details done in MySQL. The group size was 5 individuals.
 
-I wrote many webpages and wrote the documentation for scheduled milestones in this project. You can find a link to the project [here](https://github.com/parkergray221/Coursework/tree/master/CSC%20648%20-%20Software%20Engineering) .
+I wrote many webpages and wrote the documentation for scheduled milestones in this project. You can find a link to the project [here](https://github.com/parkergray221/Coursework/tree/master/CSC%20648%20-%20Software%20Engineering).
