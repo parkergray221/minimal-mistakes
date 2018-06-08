@@ -172,7 +172,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 collections:
   projects:
     output: true
-    permalink: /:path/
+    permalink: /:name
 
 # Conversion
 markdown: kramdown
