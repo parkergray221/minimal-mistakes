@@ -2,8 +2,8 @@
 title: "Parallel Password Breaker"
 excerpt: "Websocket server leverages clients to crack passwords."
 header:
-  image: /assets/imgs/homepage.jpg
-  teaser: assets/imgs/inaction.png
+  image: /assets/imgs/inaction.jpg
+  teaser: assets/imgs/password.png
 sidebar:
   - title: "Role"
     text: "Back End, Documentation"
