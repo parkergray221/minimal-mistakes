@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Parker's Site"
 title_separator          : "-"
 name                     : "Parker Gray"
-description              : "Aspiring Computer Scientist"
+description              : "Computer Scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "parkergray221/parkergray221.github.io"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Parker Gray"
   avatar           : /avatar.jpg
-  bio              : "Aspiring Computer Scientist"
+  bio              : "Computer Scientist"
   location         : "San Ramon, CA"
   email            : parker.gray221@gmail.com
   uri              :
@@ -119,7 +119,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :  "parker-gray-30663b139" 
+  linkedin         : "parker-gray-30663b139" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
